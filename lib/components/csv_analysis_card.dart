@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import '../models/csv_analysis.dart';
-
-/// Widget to display CSV analysis results from Gemini
 class CsvAnalysisCard extends StatelessWidget {
   final CsvAnalysis analysis;
   final String fileName;
