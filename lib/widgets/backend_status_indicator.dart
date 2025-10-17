@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-
-/// Widget to display backend connection status
 class BackendStatusIndicator extends StatelessWidget {
   final bool isConnected;
   final bool isUsingBackend;
