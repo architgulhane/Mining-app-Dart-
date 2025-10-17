@@ -22,6 +22,14 @@ A minimalist, multi-platform Flutter application targeting Android, Web, and Win
 - Windows desktop (optional):
   - Visual Studio 2022 with the "Desktop development with C++" workload
   - CMake and MSVC (installed via the workload)
+##  Working Prototype
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <img src="https://github.com/user-attachments/assets/d735cab2-e96d-4813-a205-9e3c0be217d9" alt="Image 1" width="45%" style="border-radius:10px;"/>
+  <img src="https://github.com/user-attachments/assets/04c7ff5f-21b6-4fc7-a30c-17640fe53373" alt="Image 2" width="45%" style="border-radius:10px;"/>
+</p>
+
+
+
 
 ## Setup
 
