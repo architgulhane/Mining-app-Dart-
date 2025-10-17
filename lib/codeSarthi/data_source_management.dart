@@ -2,8 +2,6 @@
 import 'package:flutter/material.dart';
 import 'package:cogni_sarthi/screens/data_source_management_screen.dart' as screens;
 
-// This file is kept for backwards compatibility
-// It now uses the updated DataSourceManagementScreen from lib/screens/
 class DataSourceManagementScreen extends StatelessWidget {
   const DataSourceManagementScreen({super.key});
 
