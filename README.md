@@ -28,6 +28,10 @@ A minimalist, multi-platform Flutter application targeting Android, Web, and Win
   <img src="https://github.com/user-attachments/assets/04c7ff5f-21b6-4fc7-a30c-17640fe53373" alt="Image 2" width="45%" style="border-radius:10px;"/>
 </p>
 
+<p align="center" style="display: flex; justify-content: center; gap: 40px;">
+  <img src="https://github.com/user-attachments/assets/80c29bf5-54a9-4005-a9fb-5abbab3dfd33" alt="Image 1" width="45%" style="border-radius:10px;"/>
+  <img src="https://github.com/user-attachments/assets/97630d70-b8e7-4195-bf8e-99f20b26e4fc" alt="Image 2" width="45%" style="border-radius:10px;"/>
+</p>
 
 
 
