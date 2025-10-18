@@ -1,4 +1,3 @@
-// This is a basic Flutter widget test.
 // gestures. You can also use WidgetTester to find child widgets in the widget
 
 import 'package:flutter/material.dart';
